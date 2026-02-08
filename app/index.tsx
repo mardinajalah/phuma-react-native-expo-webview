@@ -9,7 +9,7 @@ export default function Index() {
     <SafeAreaView style={styles.container}>
       <StatusBar style='dark' />
       <WebView
-        source={{ uri: 'https://athari-three.vercel.app' }}
+        source={{ uri: 'https://phuma.vercel.app' }}
         style={styles.webview}
       />
     </SafeAreaView>
